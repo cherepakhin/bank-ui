@@ -38,3 +38,4 @@ yarn start
 
 Описание находится в файле [https://github.com/cherepakhin/bank-ui/doc/Tutorial.doc](https://github.com/cherepakhin/bank-ui/doc/Tutorial.doc)
 
+[Демо-версия](http://v.el59.ru/bank)
