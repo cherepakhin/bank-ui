@@ -20,7 +20,7 @@ export const CONST_ACTION = {
 };
 
 // export const URL_SERVER = 'http://localhost:8080/bank-api';
-export const URL_SERVER = 'http://el59.ru:8080/bank/api';
+export const URL_SERVER = 'http://v.perm.ru:8080/bank/api';
 
 export const month = [
   'Январь',

@@ -49,5 +49,5 @@
     "cover": "react-scripts test --env=jsdom --coverage",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://el59.ru:8080/bank/public"
+  "homepage": "http://v.perm.ru:8080/bank"
 }
